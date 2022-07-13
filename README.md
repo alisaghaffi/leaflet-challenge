@@ -1,4 +1,8 @@
-# Unit 15 Homework: Visualizing Data with Leaflet
+# Visualizing Data with Leaflet
+
+https://alisaghaffi.github.io/leaflet-challenge/
+
+#-------------------------------------
 
 ## Background
 
@@ -22,9 +26,9 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 The instructions for this activity are broken into two parts: 
 
-* Part 1: Create the Earthquake Visualization 
+* Part 1: Create the Earthquake Visualization   :  https://alisaghaffi.github.io/leaflet-challenge/
 
-* Part 2: Gather and Plot More Data (Optional)
+* Part 2: Gather and Plot More Data (Optional)  : ???
 
 ### Part 1: Create the Earthquake Visualization
 
@@ -58,7 +62,7 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 
 - - -
 
-### Part 2: Gather and Plot More Data (Optional)
+### Part 2: Gather and Plot More Data (Optional) ????
 
 The USGS wants you to plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. So, you will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
 

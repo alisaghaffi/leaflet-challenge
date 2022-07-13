@@ -1,4 +1,4 @@
-# Visualizing Data with Leaflet
+# Geo-mapping - Visualizing Data with Leaflet
 
 https://alisaghaffi.github.io/leaflet-challenge/
 
